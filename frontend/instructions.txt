@@ -1,2 +1,3 @@
 Please detail the instructions to view your solution here:
 
+Using the standard `npm i` and then `npm run start` allows my solution to be viewed
